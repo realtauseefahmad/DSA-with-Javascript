@@ -1,0 +1,6 @@
+question 1 . Write a program that takes a user’s age and name as input and checks whether the user is a valid voter. • A user is considered a valid voter if their age is 18 or older. • If the user is 18 or older, return : <Name> is a valid voter. • If the user is younger than 18, return : <Name> is not a valid voter.
+
+question 2 . Write a program that takes an integer representing a year as input and checks whether it is a leap year. A year is considered a leap year if it satisfies either of the following conditions: 1. It is divisible by 4 but not divisible by 100, or 2. It is divisible by 400. •. If the year is a leap year, print "Leap Year". •. Otherwise, print "Not a Leap Year".
+
+question 3 .Write a program that takes an initial amount as input and calculates the final amount after applying a flat discount based on the following conditions: https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Tauseef/OneDrive/Desktop/DSA%20%28Javascript%29/day2/img.webp?version%3D1772696572895
+
